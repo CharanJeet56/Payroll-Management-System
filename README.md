@@ -38,7 +38,7 @@ The **Payroll Management System** is a comprehensive database-driven application
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/charanjeeth56/Payroll-Management-System.git
+   git clone https://github.com/charanjeet56/Payroll-Management-System.git
    ```
 
 2. **Setup the database**:
@@ -90,7 +90,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Author
 
 **D Charan Jeet**  
-[GitHub](https://github.com/charanjeeth56) | [LinkedIn](https://www.linkedin.com/in/charan-jeeth-95bb0524a/)
+[GitHub](https://github.com/charanjeet56) | [LinkedIn](https://www.linkedin.com/in/charan-jeeth-95bb0524a/)
 
 ---
 
